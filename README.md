@@ -3,7 +3,7 @@
 🚀 **About Me:**  
 - 🎯 Passionate about **System ,Embedded Systems & Backend Software Development**.
 - 🔥 Currently working on **Tono_LITE (Research Project) & Vital Monitoring System projects**.
-- 📚 Learning **ARM CORTEX M4(STM-32) & SQL**.
+- 📚 Learning **ARM CORTEX M4 & SQL**.
 - 🌍 Open to **collaborations** on exciting projects where my knowledge & experience serve the World.
 - 🎯 Seeking **opportunities** in **Embedded Systems**.
 
