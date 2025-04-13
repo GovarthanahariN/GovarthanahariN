@@ -23,8 +23,9 @@
 Firmware & Embedded Systems, Server Development & Data Management (Back-end), Digital Electronics.
 
 **🌐 Web Development:**  
-![HTML](https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5) 
-![CSS](https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3) 
+![HTML](https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 **🗄️ Databases:**  
 ![SQL](https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge&logo=mysql)  
